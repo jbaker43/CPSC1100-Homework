@@ -40,8 +40,4 @@ public class MyCalculator
         return X / Y;
     }
 }
-    
-
    
-    
-
